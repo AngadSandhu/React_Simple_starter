@@ -1,4 +1,6 @@
-# Starter Kit 
+# CourseBook 
 
-This simple Application provides add and view operations on the list of Courses . The application has been implemented using React & Redux .
+Simple React JS Application built along with Redux .
+Contains the basic features like saving , editing/ modifying , deleting data .
+
 
