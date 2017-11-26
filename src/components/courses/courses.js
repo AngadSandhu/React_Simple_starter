@@ -50,7 +50,7 @@ export class Courses extends React.Component {
         const {courses} = this.props;
 
         return (
-            <div className="container-fluid">
+            <div className="container-fluid topMargin">
                 <h1>Welcome to Courses Page</h1>
 
                 <div className="col-md-4">

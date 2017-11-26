@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 class About extends Component {
     render(){
-        return <h1>Made By Angad Sandhu</h1>;
+    return (<div className="topMargin"><h1>Made By Angad Sandhu</h1></div>);
     }
 }
 
